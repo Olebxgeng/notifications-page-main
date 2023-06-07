@@ -1,0 +1,177 @@
+body{
+    margin: 0;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    text-align: center;
+    color: #5E6778;
+}
+
+/* LAYOUT */
+.container{
+    max-width: 375px;
+    display: flex;
+    flex-direction: column;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5px;
+    margin-left: 10px;
+    min-width: 343px;
+}
+
+main{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    color: gray;
+    text-align: center;
+}
+
+.heading, .name{
+    color: black;
+    font-weight: 800;
+}
+
+.notification-num{
+    margin-top: 17px;
+    margin-left: 8px;
+    background-color: #0A327B;
+    color: white;
+    width: 32px;
+    height: 25px;
+    text-align: center;
+    border-radius: 6px;
+    font-weight: 800;
+    font-size: 1em;
+    line-height: 20px;
+}
+.heading{
+    display: flex;
+    width: 168px;
+    margin: 0px;
+}
+.chess-comment{
+    display: flex;
+   
+}
+
+/* TYPOGRAPHY */
+
+.heading h2{
+    font-weight: 800;
+    font-size: 1.25em;
+    color: #1c202b;
+    line-height: 25px;
+    text-align: left;
+}
+.timeline{
+    font-size: 0.875rem;
+    color: #939CAD;
+    font-weight:500;
+    margin-top: 0px;
+    padding: 0;
+}
+
+.notification-text{
+    font-size: 0.875rem;
+    line-height: 18px;
+    font-weight: 500;
+    margin-bottom: 0px;
+    padding: 5px;
+}
+
+.mark-all-as-read{
+    color: #5E6778;
+    font-size: 0.875rem;
+    font-weight: 500;
+    text-align: right;
+    line-height: 18px;
+    margin-top: 20px;
+    width: 101px;
+}
+
+/* NOTIFICATIONS*/
+
+section{
+    display: flex;
+    align-items: flex-start;
+    text-align: left;
+    gap: 10px;
+    max-width: 343px;
+    padding: 5px;
+}
+
+.comment{
+    border: 2px solid #DDE7EE;
+    border-radius: 5px;
+    text-align: left;
+    width: 250px;
+    padding: 0.5rem 1rem ;
+}
+
+.new-notice{
+    background: #F7FAFD;
+    border-radius: 8px;
+}
+
+.read-notice{
+    background: white;
+}
+/* IMAGES */
+
+.chess-player{
+    width: 45px;
+    height: 45px;
+    border-radius: 7px;
+    margin-top: 15px;
+}
+.profile-pic{
+    border: 1px solid lightgray;
+    border-radius: 50%;
+    width: 39px;
+    margin-top: 15px;
+    margin-left: 10px;
+}
+
+/* .attribution { 
+    font-size: 11px; 
+    text-align: center; 
+}
+
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+} */
+
+@media (min-width:750px){
+    body{
+        background: #F7FAFD;
+        cursor: pointer;
+    }
+    .container{
+        max-width: 620px;
+        /* height: 80vh; */
+        margin: 20px auto;
+        background-color: white;
+        height: fit-content;
+        border-radius: 20px;
+    }
+    header{
+        min-width: 600px;
+    }
+    section{
+        min-width: 550px;
+        margin-left: 25px;
+        margin-right: auto;
+    }
+    .comment{
+        min-width: 450px;
+    }
+    .chess-comment{
+        display:flex;
+        gap: 150px
+    }
+
+}
