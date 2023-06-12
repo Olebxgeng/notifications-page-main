@@ -173,7 +173,7 @@ section{
         display:flex;
         gap: 150px
     }
-    .chess-comment:hover{
+    .comment:hover{
         background: #E5EFFA;
     }
     .name:hover, strong:hover, .mark-all-as-read:hover{
