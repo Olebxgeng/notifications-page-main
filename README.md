@@ -38,5 +38,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Olebxgeng)
+- Website - [Olebogeng Sebogodi](https://calm-croissant-d881fe.netlify.app/)
+- Frontend Mentor - [@Olebxgeng](https://www.frontendmentor.io/profile/Olebxgeng)
