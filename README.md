@@ -6,11 +6,8 @@ This is a solution to the [Notifications page challenge on Frontend Mentor](http
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
+- [Author](Olebogeng Sebogodi)
 
 
 ## Overview
