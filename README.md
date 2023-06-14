@@ -25,7 +25,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github Repository](https://github.com/Olebxgeng/notifications-page-main)
-- Live Site URL: [Add live site URL here](https://calm-croissant-d881fe.netlify.app/)
+- Live Site URL: [Notifications Page](https://calm-croissant-d881fe.netlify.app/)
 
 ### Built with
 

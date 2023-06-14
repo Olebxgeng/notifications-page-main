@@ -5,6 +5,10 @@ const notice2 = document.getElementById("new-notice2")
 const icon = document.getElementById("icon")
 const icon1 = document.getElementById("icon1")
 const icon2 = document.getElementById("icon2")
+const markAsRead = document.getElementById("mark-as-read")
+
+// markAsRead.addEventListener("click", readNotice())
+
 const notificationTimeout = setTimeout(readNotice, 5000);
 
 function readNotice(){
@@ -15,3 +19,4 @@ function readNotice(){
     icon1.style.display = "none"
     icon2.style.display = "none"
 }
+
