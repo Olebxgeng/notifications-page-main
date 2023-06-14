@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Olebxgeng/notifications-page-main)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github Repository](https://github.com/Olebxgeng/notifications-page-main)
+- Live Site URL: [Add live site URL here](https://calm-croissant-d881fe.netlify.app/)
 
 ### Built with
 
@@ -38,5 +38,4 @@ Users should be able to:
 
 ## Author
 
-- Website - [Olebogeng Sebogodi](https://calm-croissant-d881fe.netlify.app/)
 - Frontend Mentor - [@Olebxgeng](https://www.frontendmentor.io/profile/Olebxgeng)
